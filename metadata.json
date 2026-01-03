@@ -1,0 +1,5 @@
+{
+  "name": "Symbion Multiverse Lab",
+  "description": "A futuristic project packer and code analysis tool. Upload your project folder to visualize structure, pack code for AI contexts, and analyze architecture using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
